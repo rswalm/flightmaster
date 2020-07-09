@@ -1,0 +1,70 @@
+body {
+  background-image: url("flight_img.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.jumbotron {
+  background-color: #1d258c;
+}
+
+.selection-display {
+  background-color: #1d258c;
+}
+
+.card-body {
+  color: black;
+}
+
+.label {
+  color: white;
+}
+
+.navbar {
+  background-color: #1d258c;
+  color: white;
+}
+
+.display1 {
+  display: flex;
+  text-align: center;
+  font-family: Stencil Std, fantasy;
+}
+
+.fa-plane {
+  font-size: 35px;
+  color: white;
+}
+
+#search-flight {
+  background-color: teal;
+  border-style: none;
+  color: white;
+  font-weight: bold;
+  border-spacing: 20px;
+}
+
+input {
+  border-radius: 3px;
+  border-style: none;
+}
+
+.travelerClass {
+  display: none;
+  background-color: white;
+  width: 350px;
+  float: right;
+}
+
+label {
+  color: white;
+}
+
+.hide {
+  display: none;
+}
+
+.pointer {
+  cursor: pointer;
+}

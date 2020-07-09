@@ -1,0 +1,17 @@
+/* body {
+    background-color: #EBECF0;
+}  */
+
+.image-float-left {
+    float: left;
+    margin-right: 20px;
+}
+
+.loc-wrapper, .date-wrapper, .psg-wrapper {
+    display: block;
+    box-sizing: border-box;
+}
+
+.loc-input, .date-input, .psg-input {
+    padding: 10px;
+}
